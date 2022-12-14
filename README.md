@@ -30,6 +30,7 @@ Sitemize ilk girdiğimizde aşağıdaki gibi bir ekran bizi karşılıyor ve sa�
 ![image](https://user-images.githubusercontent.com/96335654/207726193-5754cf9a-b1a1-46a5-87b2-91bf583de77a.png)
 
 Bağladıktan sonra karşımıza böyle bir ekran geliyor ardından mint tuşuna basarak üstteki sayı kadar nft mintleyebiliyoruz.
+Mintleye bilmeniz için goerli testağında etheriniz olması gerekiyor aksi takdirde mint button'ı çalışmıyor.
 
 ![image](https://user-images.githubusercontent.com/96335654/207726399-c41e0c7f-e08d-461f-a10b-e2b7950431a6.png)
 
