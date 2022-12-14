@@ -2,6 +2,8 @@
 
 Bu Projede NFT websitesi yapmayı amaçladım. Wallet'ı bağladıktan sonra minte tıklayarak en fazla 5 adet NFT mintleyebiliyoruz.
 
+https://yigittnnft.netlify.app/
+
 Amacım React'ı ve Solidity bilgilerimi kullanarak bir proje çıkarmaktı. Olabildiğince farklı dependencies kullanmak istedim. CSS kısmını tailwind ile yaptım.
 
 Bu projeden öğrendiklerim;
@@ -36,4 +38,4 @@ Sol üste ise sosyal medya iconlarına tıklayarak sosyal medya hesaplarıma gid
 Elimden geldiğince kodları yazarken yorum satırlarıyla anlatmaya çalıştım.
 Geri dönüşleriniz için teşekkür ederim.
 
-https://yigittnnft.netlify.app/
+
