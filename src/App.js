@@ -3,8 +3,6 @@ import Navbar from "./Components/Navbar";
 import Main from "./Components/Main";
 import "./App.css";
 
-import "./App.css";
-
 function App() {
   const [accounts, setAccounts] = useState([]);
 
