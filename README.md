@@ -34,6 +34,10 @@ Mintleye bilmeniz için goerli testağında etheriniz olması gerekiyor aksi tak
 
 ![image](https://user-images.githubusercontent.com/96335654/207726399-c41e0c7f-e08d-461f-a10b-e2b7950431a6.png)
 
+Mint butonuna tıkladıktan sonrada metamaskla işlemi onaylamanız gerekiyor
+![image](https://user-images.githubusercontent.com/96335654/207731582-f883bf33-e145-4647-a1d7-3e520f9c0dc2.png)
+
+
 Sol üste ise sosyal medya iconlarına tıklayarak sosyal medya hesaplarıma gidebilirsiniz.
 
 Elimden geldiğince kodları yazarken yorum satırlarıyla anlatmaya çalıştım.
