@@ -23,7 +23,7 @@ Projede Gösterdiklerim;
 - Tailwind CSS
 - Hardhat
 
-Sitemize ilk girdiğimizde aşağıdaki gibi bir ekran bizi karşılıyor ve sağ taraftan metamaskımı bağlıyoruz
+Sitemize ilk girdiğimizde aşağıdaki gibi bir ekran bizi karşılıyor ve sağ taraftan metamaskımı bağlıyoruz.
 
 ![image](https://user-images.githubusercontent.com/96335654/207726193-5754cf9a-b1a1-46a5-87b2-91bf583de77a.png)
 
